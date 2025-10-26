@@ -1,4 +1,5 @@
-## Hi there 👋
+<img src="[https://i.pinimg.com/originals/fe/dc/05/fedc05d06d8d7438485c2ad48d9aa865.gif](https://i.redd.it/f4kfjhosnu991.gif
+)" alt=":D" style="width: 100vw;" />
 
 # 🛠️ What I've made
 - [ColorScan-Suite](https://github.com/CROXY04/ColorScan-Suite) - A Python based  GUI Color and Object Detection Program using OpenCV.
