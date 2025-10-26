@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+# 🛠️ What I've made
+- [ColorScan-Suite](https://github.com/CROXY04/ColorScan-Suite) - A Python based  GUI Color and Object Detection Program using OpenCV.
+- [AstralSim](https://github.com/CROXY04/AstralSim) - Weltraumsimulation/Raketensimulation Ariane 6
+
+# 📜 My Stats
+
+![stats](https://github-readme-stats.vercel.app/api/?username=CROXY04&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CROXY04&layout=compact&hide=html&theme=github_dark&langs_count=8)
+
 <!--
 **CROXY04/CROXY04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
