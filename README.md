@@ -1,7 +1,7 @@
 <img src="https://i.redd.it/f4kfjhosnu991.gif" alt=":D" style="width: 100vw;" />
 - [Source] blcktstr -  "I'll never forget."
 
-
+#
 + 👨‍💻 Currently working on ricing
 + ✏️ Likes tinkering & modding
 + 🔭 Trying to learn new things everyday
