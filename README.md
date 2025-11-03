@@ -11,6 +11,7 @@
 # 🛠️ What I've made
 - [ColorScan-Suite](https://github.com/CROXY04/ColorScan-Suite) - A Python based  GUI Color and Object Detection Program using OpenCV.
 - [AstralSim](https://github.com/CROXY04/AstralSim) - Weltraumsimulation/Raketensimulation Ariane 6
+- [Dotfiles](https://github.com/CROXY04/dotfiles-seb) - Personal Dotfiles
 
 # 🖥️ Gear
 + 💻 Lenovo/IBM Thinkpad R60 (T7400) | Surface Pro 8 (i5) | iPad mini 7 (A17 Pro)
