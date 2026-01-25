@@ -27,8 +27,8 @@
 + 🌙 THIS FEELING - DJ Anemia, Crier und sixnite
 
 # My Stats
-![stats](https://github-readme-stats.vercel.app/api/?username=CROXY04&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CROXY04&layout=compact&hide=html&theme=github_dark&langs_count=8)
+![stats](https://github-readme-stats.vercel.app/api/?username=SebTMo&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebTMo&layout=compact&hide=html&theme=github_dark&langs_count=8)
 
 <!--
 **CROXY04/CROXY04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
