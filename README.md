@@ -10,6 +10,7 @@
 
 # What I've made
 - [ColorScan-Suite](https://github.com/CROXY04/ColorScan-Suite) - A Python based  GUI Color and Object Detection Program using OpenCV.
+- [Paperset](https://github.com/SebTMo/Paperset) - Minimal Wallpaper Manager written in C
 - [AstralSim](https://github.com/CROXY04/AstralSim) - Weltraumsimulation/Raketensimulation Ariane 6
 - [Dotfiles](https://github.com/CROXY04/dotfiles-seb) - Personal Dotfiles
 
