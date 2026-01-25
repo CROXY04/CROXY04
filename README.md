@@ -1,4 +1,4 @@
-<img src="https://i.redd.it/f4kfjhosnu991.gif" alt=":D" style="width: 100vw;" />
+<img src="https://i.redd.it/f4kfjhosnu991.gif" alt=":D" style="width: 85vw;" />
 - [Source] blcktstr -  "I'll never forget."
 
 #
